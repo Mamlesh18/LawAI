@@ -29,7 +29,7 @@
 ## 🎥 **Demo Video**
 Watch this short demo of Law AI Project in action:
 
-<!-- ![Demo Video](assets/gif_law.gif) -->
+![Demo Video](assets/gif_law.gif)
 
 ---
 
