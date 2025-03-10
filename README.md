@@ -30,7 +30,7 @@
 Watch this short video to see Law AI Project in action:
 
 <video width="100%" controls>
-  <source src="./path/to/your/demo-video.mp4" type="video/mp4">
+  <source src="assets/video_1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
