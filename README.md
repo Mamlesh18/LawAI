@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 **Overview**
-**Law AI Project** is a cutting-edge platform designed to empower both lawyers and users with advanced legal document management and AI-driven tools. Whether you're a legal professional or someone in need of legal assistance, Law AI Project simplifies legal processes, making them more efficient, organized, and accessible.
+**Law AI Project** Law AI Project is a comprehensive platform that combines the power of artificial intelligence with user-friendly interfaces to revolutionize the way legal documents are created, managed, and interacted with. From generating custom legal documents to chatting with PDFs for instant insights, Law AI Project is your one-stop solution for all legal needs.
 
 ---
 
@@ -27,32 +27,14 @@
 ---
 
 ## 🎥 **Demo Video**
-Watch this short video to see Law AI Project in action:
+Watch this short video to see Law AI Project in action: [Click here to watch the demo](https://your-video-link.com)
+  
 
-[![Law AI Demo Video]](<video controls src="assets/Video_law.mp4" title="Demo Video"></video>)  
-*Click the image above to watch the demo.*
-
----
-
-## 🛠️ **How It Works**
-
-### Step 1: Sign Up & Access Dashboard
-- Create an account and log in to access the dashboard.
-
-### Step 2: Generate Legal Documents
-- Enter your query (e.g., "Generate a rental agreement").
-- Input personal details, and the document will be generated with your details integrated.
-
-### Step 3: Chat with PDF
-- Upload any legal PDF.
-- Ask questions and get instant answers.
-
-### Step 4: Manage Your Drafts
-- View, search, and download all your created documents in one place.
 
 ---
 
-## 📸 **Screenshots**
+
+
 
 ### Dashboard
 ![Dashboard](assets/homepage.jpg)  
@@ -80,4 +62,10 @@ Watch this short video to see Law AI Project in action:
 
 ---
 
-## 📂 **Project Structure**
+Law AI Project is more than just a tool; it's a revolution in legal document management. Whether you're a lawyer looking to streamline your workflow or a user in need of quick legal assistance, Law AI Project is here to make your life easier. Sign up today and experience the future of legal technology.
+
+---
+
+ ## 📧 **Contact US**
+For questions or feedback, feel free to reach out:
+📧 Email: your-email@example.com | your-email@example.com 
