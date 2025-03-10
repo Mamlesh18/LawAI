@@ -1,6 +1,6 @@
 # Law AI Project
 
-![Law AI Banner](assets/law.png)  
+![Law AI Banner](assets/law_upd.png)  
 *Revolutionizing Legal Document Management with AI*
 
 ---
