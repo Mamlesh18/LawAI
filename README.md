@@ -29,7 +29,8 @@
 ## 🎥 **Demo Video**
 Watch this short demo of Law AI Project in action:
 
-![Demo Video](assets/gif_law.gif)
+<!-- ![Demo Video](assets/gif_law.gif) -->
+
 ---
 
 
@@ -67,4 +68,4 @@ Law AI Project is more than just a tool; it's a revolution in legal document man
 
  ## 📧 **Contact US**
 For questions or feedback, feel free to reach out:
-📧 Email: your-email@example.com | your-email@example.com 
+📧 Email: mamleshva06@gmail.com | nishyanthnandagopal@gmail.com 
