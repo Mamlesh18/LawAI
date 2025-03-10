@@ -27,13 +27,9 @@
 ---
 
 ## 🎥 **Demo Video**
-Watch this short video to see Law AI Project in action:
+Watch this short demo of Law AI Project in action:
 
-<video width="100%" controls>
-  <source src="assets/video_1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+![Demo Video](assets/gif_law.gif)
 ---
 
 
