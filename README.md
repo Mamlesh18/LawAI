@@ -68,4 +68,4 @@ Law AI Project is more than just a tool; it's a revolution in legal document man
 
  ## 📧 **Contact US**
 For questions or feedback, feel free to reach out:
-📧 Email: mamleshva06@gmail.com | nishyanthnandagopal@gmail.com 
+📧 Email: mamlesh.va06@gmail.com | nishyanthnandagopal@gmail.com 
